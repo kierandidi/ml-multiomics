@@ -2,7 +2,7 @@
 Project for MPhil Computational Biology at Cambridge University 2023, Genomics II
 
 Reproduction of Villiers *et. al.*: Multi-omics and machine learning reveal context-specific gene
-regulatory activities of PML::RARA in acute promyelocytic leukemia, *Nature Communications 14*, 2023
+regulatory activities of PML::RARA in acute promyelocytic leukemia, *Nature Communications **14***, 2023
 
 ### Resources
 
