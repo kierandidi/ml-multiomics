@@ -28,7 +28,7 @@ regulatory activities of PML::RARA in acute promyelocytic leukemia, *Nature Comm
 <details>
   <summary>2. PML::RARA binding (Cut&Run): Yingtong</summary>
   
-1. [ ] COMPARE: Source Data Tab 2 U937 PR Binding Sites 
+1. COMPARE: Source Data Tab 2 U937 PR Binding Sites 
 2. 2b: Pie charts of genomic distribution of binding peaks 
 3. 2c: Venn diagram of bound/DEG 
 4. 2d: Ranked plot: expression of bound genes + bar plot 
