@@ -25,8 +25,30 @@ regulatory activities of PML::RARA in acute promyelocytic leukemia, *Nature Comm
 8. S1f: MDS plot of replicates
 </details>
 
-2. PML::RARA binding (Cut&Run): Yingtong
-3. Chromatin occupancy (ATAC-seq): Max
-4. long-range interactions (Promoter capture Hi-C): Tom
-5. Pattern Recognition (REBEL, XGBoost): Kieran
+<details>
+  <summary>2. PML::RARA binding (Cut&Run): Yingtong</summary>
+  
+</details>
+
+<details>
+  <summary>3. Chromatin occupancy (ATAC-seq): Max</summary>
+  
+</details>
+
+<details>
+  <summary>4. long-range interactions (Promoter capture Hi-C): Tom</summary>
+  
+</details>
+
+<details>
+  <summary>5. Pattern Recognition (REBEL, XGBoost): Kieran</summary>
+  
+</details>
+
+
+
+
+
+
+
 
