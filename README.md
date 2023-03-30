@@ -15,14 +15,14 @@ regulatory activities of PML::RARA in acute promyelocytic leukemia, *Nature Comm
 <details>
   <summary>1. Gene expression (RNA-Seq): Martina</summary>
   
-COMPARE: Source Data Tab 1 U937-PR9 DEGs 
-1b: RNA-seq volcano plot 
-1c: GO terms 
-1d: Pathway enrichment 
-S1b: Bar plot of numbers of fusion transcripts in patients 
-S1c: Correlation heatmaps of RNA-seq samples 
-S1d-S1e: Scatter plot of induced/uninduced replicates 
-S1f: MDS plot of replicates
+1. COMPARE: Source Data Tab 1 U937-PR9 DEGs 
+2. 1b: RNA-seq volcano plot 
+3. 1c: GO terms 
+4. 1d: Pathway enrichment 
+5. S1b: Bar plot of numbers of fusion transcripts in patients 
+6. S1c: Correlation heatmaps of RNA-seq samples 
+7. S1d-S1e: Scatter plot of induced/uninduced replicates 
+8. S1f: MDS plot of replicates
 </details>
 
 2. PML::RARA binding (Cut&Run): Yingtong
