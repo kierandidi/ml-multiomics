@@ -9,6 +9,7 @@ regulatory activities of PML::RARA in acute promyelocytic leukemia, *Nature Comm
 - [Paper](https://www.nature.com/articles/s41467-023-36262-0)
 - [Code](https://github.com/borimifsud/REBEL)
 - [Data Spreadsheet](https://zenodo.org/record/7467566#.ZCLbL-zML0o)
+- [Presentation Draft](https://universityofcambridgecloud-my.sharepoint.com/:p:/g/personal/ked48_cam_ac_uk1/EcJKGidHY5ZNidsUgqphfTkBdtmvX-FqH8wNThe5G4PM7g?e=m2Z9rS)
 
 ### Tasks
 
